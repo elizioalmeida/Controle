@@ -46,7 +46,7 @@ import pango
 
 from dialogo import getText, dialogoAviso
 
-
+# teste
 
 class principal:
     """Programa Principal"""
